@@ -10,6 +10,8 @@
 #include <algorithm>	
 #include <list>
 #include <cmath>
+#include <memory>
+#include <assert.h>
 
 //=============================================================================
 // INCLUDE
